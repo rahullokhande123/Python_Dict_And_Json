@@ -17,5 +17,5 @@ json_data='{"name": "Rahul", "age": 37, "active": true }'
 
 PythonData=json.loads(json_data)
 print(PythonData)
-
+print(type(PythonData))
 
