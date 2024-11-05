@@ -19,3 +19,6 @@ PythonData=json.loads(json_data)
 print(PythonData)
 print(type(PythonData))
 
+# json to python -> loads and load
+# python to json -> dump and dumps
+# dusri file se data lane ke liye load or dump ka use krrte hai 
